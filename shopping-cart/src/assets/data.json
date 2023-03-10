@@ -1,0 +1,167 @@
+[
+    {
+      "id": "1",
+      "name": "Supreme new york",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994680/dahanstore/hat/Supreme_red9200_qbzcni.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "Red",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "2",
+      "name": "NEW ERA",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994661/dahanstore/hat/NEW_ERAblack7.52200_ox0zye.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "Black",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "3",
+      "name": "NEW ERA",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994641/dahanstore/hat/NEW_ERAwhite7.52200_dmbund.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "White",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "4",
+      "name": "KOPKA",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994627/dahanstore/hat/KOPKA1800_drgt8d.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "Black",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "5",
+      "name": "Supreme",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994610/dahanstore/hat/Supreme7000_g5lavf.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Bennie",
+      "color": "White",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "6",
+      "name": "Supreme new york",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994565/dahanstore/hat/Supreme9200_vei10i.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "Green",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "7",
+      "name": "Yohji Yamamoto",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677994554/dahanstore/hat/Yohji_Yamamoto12600_x9ajio.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "Green",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "8",
+      "name": "Supreme new york",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993890/dahanstore/men_shirt/COMME_des_GARCONS_HOMMEL_qtwdcc.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Shirt",
+      "color": "Black",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "9",
+      "name": "Supreme new york",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993879/dahanstore/men_shirt/JOURNAL_STANDARDM_1_ck0nas.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Shirt",
+      "color": "Khaki",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "10",
+      "name": "JOURNAL_STANDARD",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993869/dahanstore/men_shirt/JOURNAL_STANDARDM_vqg5gq.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "type": "Hat",
+      "color": "checker",
+      "price": 19.00,
+      "discount": 10,
+      "quantity": 0
+    },
+    {
+      "id": "12",
+      "name": "BLUE WORK",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993959/dahanstore/men_pant/BLUE_WORK_34XL_z8oprg.jpg",
+      "description":"The tonewoods, hardware, pickups, comfort, balance, playability and tone set this guitars apart, giving them a credibility which will surprise even the most experienced player, and inspire the ‘first time’ player to play, play now – and carry on playing! Blaster Series guitars feature specially created vintage-voiced pickups to produce astonishingly accurate and authentic tone.",
+      "type": "Pant",
+      "color": "Blue",
+      "price": 9.00,
+      "discount": 5,
+      "quantity": 0
+    },
+    {
+      "id": "13",
+      "name": "Dr. DENIM",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993948/dahanstore/men_pant/Dr.DENIM31_M_qyeflb.jpg",
+      "description":"Give it up to the Gigabyte G5 KD-52US123SO gaming laptop. Its’s a refreshed RTX 3060 version of the Gigabyte G5 GD-51US123SO that’s already a great laptop. When we reviewed the latter a few months ago. We found it to be something of a genre buster with its RTX 3050 graphics card, awesome Intel “Tiger Lake” CPU and great gaming performance.",
+      "type": "Pant",
+      "color": "Black",
+      "price": 9.00,
+      "discount": 15,
+      "quantity": 0
+    },
+    {
+      "id": "14",
+      "name": "DSQUARED",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993934/dahanstore/men_pant/DSQUARED44S_wtxql8.jpg",
+      "description":"If you want to capture a classic look, you need the gear to match the genre. Nothing completes the style quite like the 55SH Series II, a microphone that has been gripped by legends for decades. Others may imitate, but none can duplicate the form and function standards Shure has held from our first Unidyne mic to our latest.",
+      "type": "Pant",
+      "color": "Silver",
+      "price": 9.00,
+      "discount": 15,
+      "quantity": 0
+    },
+    {
+      "id": "15",
+      "name": "JUNYA WATANABE MAN",
+      "image": "https://res.cloudinary.com/dt81dllhq/image/upload/v1677993921/dahanstore/men_pant/JUNYA_WATANABE_MAN_S_dixwsk.jpg",
+      "description":"Meticulously crafted to surpass every design standard, the HP Z27u G3 QHD USB-C® Display is composed of authentic aluminum and delivers an impressive, frameless viewing experience. Bring your ideas to life with remarkable color accuracy in precise Quad HD resolution. Refine your work experience and transform your PC into a powerhouse with this 27 inch diagonal screen monitor with USB-C 100W Power Delivery",
+      "type": "Pant",
+      "color": "Black",
+      "price": 9.00,
+      "discount": 12,
+      "quantity": 0
+    },
+    {
+      "id": "16",
+      "name": "Open Toe & Pointed Flats",
+      "image": "https://res.cloudinary.com/dz4tt9omp/image/upload/v1660869167/shoe.jpg",
+      "description":"Slip on and adjustable buckle design: it is convenient to wear and take off, with non-slip rubber soles, reduce the chance of falling, and give you enough sense of security",
+      "type": "Shoes",
+      "color": "Black",
+      "price": 9.00,
+      "discount": 10,
+      "quantity": 0
+    }
+  ]
